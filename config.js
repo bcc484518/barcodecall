@@ -3,7 +3,7 @@
 // ===================================================================
 
 // ১) Google Apps Script-এর Web App URL এখানে বসান (README.txt দেখুন)
-window.APP_URL = "PASTE_YOUR_WEB_APP_URL_HERE";
+window.APP_URL = "https://script.google.com/macros/s/AKfycbzzK0JvvvbCrOqDzwHXaEdoq6qth4n-pOu3OHyg9bhYF7WBYGcbnOBPDMBGHSX_CgES/exec";
 
 // ২) সাইটের নাম ও ট্যাগলাইন — বদলালে সব পেজে আপনা-আপনি বদলে যাবে
 window.SITE = {
